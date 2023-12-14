@@ -7,7 +7,9 @@ Hace días que estoy intentando tener respuesta de mi tutor, pero fue imposible.
 DEPLOY:
 
 DRIVE: VIDEO EXPLICATIVO DEL ERROR: https://drive.google.com/file/d/1fvS3v25YBEsgs5rp1bh01Zkj57D2i6lJ/view?usp=sharing
+
 DEMO NETLIFY: https://657b0dac7b7b6e1dc80b6e30--wonderful-medovik-8764cb.netlify.app/
+
 Repositorio GIT: https://github.com/NicolasDeVinco/EntregaFinalReact-NDV
 
 
