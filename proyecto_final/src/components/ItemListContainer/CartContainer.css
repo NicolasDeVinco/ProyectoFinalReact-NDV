@@ -1,0 +1,31 @@
+.cart__container--info {
+    display: grid;
+    grid-template-columns: 4fr 2fr 3fr 3fr;
+}
+
+.cart__info--price {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    align-self: center;
+}
+
+.cart__info--form {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    text-align: center;
+}
+
+.cart__info--button {
+    text-align: center;
+    align-self: center;
+    display: flex;
+    gap: 2rem;
+    margin-right: 40px;
+}
+
+.cross__img {
+    width: 4%;
+    background-color: red;
+    cursor: pointer;
+}

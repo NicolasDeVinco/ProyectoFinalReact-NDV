@@ -1,0 +1,14 @@
+.input__count--container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.ir__carrito {
+    cursor: pointer;
+}
+
+.seguir__comprando {
+    cursor: pointer;
+}

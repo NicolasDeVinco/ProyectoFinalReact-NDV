@@ -1,0 +1,10 @@
+.titulos__container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.titulo__item {
+    text-decoration: underline;
+}

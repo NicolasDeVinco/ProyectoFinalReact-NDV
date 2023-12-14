@@ -1,0 +1,23 @@
+  .message__container {
+    background-color: #ffcccc;
+    padding: 10px;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    margin-top: 10px;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    height: 200px;
+    width: 400px;
+  }
+  
+
+  .boton__agree {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,17 @@
+.mensaje-compra {
+    display: block;
+    background-color: rgb(126, 126, 245);
+    width: 50%;
+    height: 500px;
+    border-radius: 30px;
+    border: 2px solid grey;
+    position: fixed;
+    top: 50px;
+    justify-self: center;
+    text-align: center;
+    font-size: 48px;
+}
+
+.boton__compra--mensaje {
+    cursor: pointer;
+}
